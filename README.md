@@ -3,6 +3,8 @@ Docker Example Voting App
 
 A simple distributed application running across multiple Docker containers.
 
+Ref article: https://hackernoon.com/practical-introduction-to-docker-compose-d34e79c4c2b6
+
 Getting started
 ---------------
 
